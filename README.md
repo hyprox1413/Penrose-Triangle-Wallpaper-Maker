@@ -1,0 +1,2 @@
+# Penrose Triangle Wallpaper Maker
+ Easy-to-tweak, simple program that overlays a pattern of generated Penrose Triangles over a background of your choosing.  Simply name your background "background.jpg" and insert it into the data folder.  (Code must be changed slightly for sizes and filetypes outside of 1920x1080 jpg.)  Standalone applications included.  Credit to Francesco Ungaro on Pexels.com for the included image.  
